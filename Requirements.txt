@@ -1,0 +1,4 @@
+The provided source code was written using Python 3.8
+It has been tested in Spyder, Visual Studio Code, and in Jupyter Notebooks
+
+To run in terminal: python3 Project6_AMZN or python3 Project6_GOOG
